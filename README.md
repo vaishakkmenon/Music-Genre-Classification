@@ -23,3 +23,16 @@ My Current Structure (Vaishak):
 - Data.zip
 - Project_Proposal.pdf
 - README.md
+
+I work in VSCode, and with their support for jupyter notebook, it is easy to select a kernel. We can work together to figure it out for each other if need be.
+
+Conda Environment Setup:
+
+Install Conda if not installed already
+Move to directory with environment.yaml
+Run following commands
+
+- conda env create -f environment.yaml
+- conda activate 667-MGC
+- conda list (OPTIONAL; Just a check to see the environment is installed)
+- conda deactivate (Method to deactivate the environment)
