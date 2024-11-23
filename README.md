@@ -19,10 +19,16 @@ My Current Structure (Vaishak):
       - images_original
         features_3_sec.csv
         features_30_sec.csv
-- .gitignore
-- Data.zip
-- Project_Proposal.pdf
-- README.md
+  - .gitignore
+  - Models
+    - CNN
+    - KNN
+    - Random_Forest
+    - SVM
+  - base_env
+  - Data.zip
+  - Project_Proposal.pdf
+  - README.md
 
 I work in VSCode, and with their support for jupyter notebook, it is easy to select a kernel. We can work together to figure it out for each other if need be.
 
