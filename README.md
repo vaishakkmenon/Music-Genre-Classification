@@ -17,8 +17,8 @@ My Current Structure (Vaishak):
     - GTZAN
       - genres_original
       - images_original
-        features_3_sec.csv
-        features_30_sec.csv
+        - features_3_sec.csv
+        - features_30_sec.csv
   - .gitignore
   - Models
     - CNN
